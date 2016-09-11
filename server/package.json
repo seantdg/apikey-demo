@@ -1,14 +1,14 @@
 {
-  "name": "seantdg-project-template-middleware",
+  "name": "seantdg-apikey-demo-middleware",
   "version": "0.0.1",
-  "description": "Express App to quickly start a new project",
+  "description": "API Key middleware demo",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seantdg/ProjectTemplate.git"
+    "url": "git+https://github.com/seantdg/apikey-demo.git"
   },
   "keywords": [
     "seantdg"
@@ -16,9 +16,9 @@
   "author": "Sean Davis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/seantdg/ProjectTemplate/issues"
+    "url": "https://github.com/seantdg/apikey-demo/issues"
   },
-  "homepage": "https://github.com/seantdg/ProjectTemplate#readme",
+  "homepage": "https://github.com/seantdg/apikey-demo#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
